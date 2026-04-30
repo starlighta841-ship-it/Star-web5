@@ -67,9 +67,9 @@
     }
     .Img-mobilescreen__third{
         width: 19vw;
-        right: 6%;
+        right: 2%;
         left: unset;
-        top:5%;
+        top: 2%;
     } 
     .hero-text__group p{
         line-height: 2rem;
@@ -85,6 +85,7 @@
     }
     .details-con__100{
         border-bottom: 1px solid rgba(0, 0, 0, 0.277);
+        padding: 1rem;
     }
    .details-con__100:last-child{
     border-bottom: none;
