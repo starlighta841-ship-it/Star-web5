@@ -79,6 +79,7 @@ body{
 }
 .main-content{
     width: 100%;
+    overflow-x: hidden;
 }
 .container{
     width: 100%;
