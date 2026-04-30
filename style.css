@@ -80,6 +80,7 @@ body{
 .main-content{
     width: 100%;
     overflow-x: hidden;
+    position: relative;
 }
 .container{
     width: 100%;
